@@ -16,7 +16,7 @@ To write a program to find the GCD of two numbers using function.
 ## Program:
 ```
 Program to find the gcd of two number using function.
-Developed by:Easwari M
+Developed by : Easwari M
 RegisterNumber:212223240033
 ```
 ```
